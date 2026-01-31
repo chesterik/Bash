@@ -2,7 +2,7 @@
 
 echo -e "\n##########\n total cpu \n##########"
 
-top -bn1 | grep "Cpu(s)" | awk '{print $2 + $4}'
+top -bn1 | grep "Cpu" | awk '{print $2 + $4}'
 
 echo -e "\n##########\n total memory \n##########"
 
