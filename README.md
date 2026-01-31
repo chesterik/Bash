@@ -6,4 +6,4 @@
 
 
 
-All projects can be found on [roadmap.sh](https://roadmap.sh/linux/projects)
+All projects are available at [roadmap.sh](https://roadmap.sh/linux/projects)
